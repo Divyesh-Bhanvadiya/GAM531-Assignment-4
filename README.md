@@ -14,6 +14,7 @@ I have used the **OpenTK** library since the goal of the assignment 1 was to ren
 
 ## How to run the project
 
+NOTE: Windows is needed to run this program.
 
 1. Clone the project
 ```bash
@@ -30,4 +31,4 @@ git clone https://github.com/Divyesh-Bhanvadiya/GAM531-Assignment-2.git
 -Divyesh Bhanvadiya (Student ID: 148647233)
 
 ## Program Results
-![]()
+![](https://github.com/Divyesh-Bhanvadiya/GAM531-Assignment-4/blob/main/Program%20Results.gif)
